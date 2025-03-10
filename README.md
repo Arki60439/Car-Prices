@@ -1,2 +1,4 @@
 # Car-Prices
-My first project
+My first Git Hub Repository
+<br>
+Author-Arvind Ravi
